@@ -1,0 +1,70 @@
+[
+	[
+		{
+			"speaker" : "old_man",
+			"dialog" : "Threescore and ten I can remember well: Within the volume of which time I have seen Hours dreadful and things strange; but this sore night Hath trifled former knowings.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "ross",
+			"dialog" : "Ah, good father, Thou seest, the heavens, as troubled with man's act, Threaten his bloody stage: by the clock, 'tis day, And yet dark night strangles the travelling lamp:",
+            "newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "old_man",
+			"dialog" : "'Tis unnatural, Even like the deed that's done. On Tuesday last, A falcon, towering in her pride of place, Was by a mousing owl hawk'd at and kill'd.",
+            "newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "And Duncan's horses--a thing most strange and certain-- Beauteous and swift, the minions of their race, Turn'd wild in nature, broke their stalls, flung out, Contending 'gainst obedience, as they would make War with mankind.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "old_man",
+			"dialog" : "'Tis said they eat each other.",
+			"newSpeaker" : "true"
+		},
+
+		{
+			"speaker" : "ross",
+			"dialog" : "They did so, to the amazement of mine eyes That look'd upon't. Here comes the good Macduff.",
+            "newSpeaker": "true"
+
+		},
+		{	
+			"speaker" : "ross",
+			"dialog" : "How goes the world, sir, now?"
+		}
+	],
+	[
+		{
+			"speaker" : "macduff",
+			"dialog" : "Why, see you not?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him."
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "Father, son of Saturn, King of kings, it served Aegisthus right, and so it would any one else who does as he did; but Aegisthus is neither here nor there.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends."
+		},
+		{	
+			"speaker" : "jove",
+			"dialog" : "My child, what are you talking about? How can I forget Ulysses than whom there is no more capable man on earth, nor more liberal in his offerings to the immortal gods that live in heaven?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "minerva",
+			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
+			"newSpeaker" : "true"
+		}
+	]
+]
